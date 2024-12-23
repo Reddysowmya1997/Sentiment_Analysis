@@ -1,0 +1,41 @@
+* "simulator" "PrimeSim HSPICE"
+* "version" "R-2020.12-SP2 win64"
+* "format" "HSP"
+* "rundate" "16:16:15 05/06/2023 "
+* "netlist" "2-4 decoder.sp "
+* "runtitle" "* hspice deck for a 2 to 4 decoder"
+* time =    0.            
+* temperature =  100.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ a =   0.            
++ a0 =   1.0998        
++ b =   0.            
++ b0 =   1.0998        
++ q0 =   1.0998        
++ q1 = 281.7802u       
++ q2 = 189.6535m       
++ q3 = 281.6978u       
++ vcc =   1.5000        
++ vdd =   1.1000        
++ vee =  -1.5000        
++ vss =   0.            
++ y0 = 983.2697u       
++ y1 =   1.1000        
++ y2 = 641.2856m       
++ y3 =   1.1000        
++ xnand1.n1 = 495.0791u       
++ xnand1.vcc =   1.0586        
++ xnand1.vee =  22.1946m       
++ xnand2.n1 = 122.3895m       
++ xnand2.vcc =   1.0813        
++ xnand2.vee =  67.9890m       
++ xnand3.n1 = 217.6880m       
++ xnand3.vcc =   1.0532        
++ xnand3.vee =  71.0249m       
++ xnand4.n1 = 122.3912m       
++ xnand4.vcc =   1.0694        
++ xnand4.vee =  67.9896m       
+***   END: Saved Operating Point ***                     

@@ -1,0 +1,57 @@
+* "simulator" "PrimeSim HSPICE"
+* "version" "R-2020.12-SP2 win64"
+* "format" "HSP"
+* "rundate" "16:19:44 05/06/2023 "
+* "netlist" "2-4 decoder - static.sp "
+* "runtitle" "* hspice deck for a 2 to 4 decoder"
+* time =    0.            
+* temperature =  100.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ a =   0.            
++ a0 =   1.0997        
++ b =   0.            
++ b0 =   1.0997        
++ q0 =   1.4299m       
++ q1 = 321.7613u       
++ q2 = 321.7385u       
++ q3 = 321.7073u       
++ vcc =   1.5000        
++ vdd =   1.1000        
++ vee =  -1.5000        
++ vss =   0.            
++ y0 =   1.0185        
++ y1 =   1.1000        
++ y2 =   1.1000        
++ y3 =   1.1000        
++ xinv1.vcc =   1.0687        
++ xinv1.vee =  64.0919m       
++ xinv2.vcc =   1.0687        
++ xinv2.vee =  64.0919m       
++ xnand1.n1 =   1.0185        
++ xnand1.n2 =   1.0185        
++ xnand1.vcc =   1.0944        
++ xnand1.vee =   1.0185        
++ xnand2.n1 = 365.2687m       
++ xnand2.n2 = 323.6234m       
++ xnand2.vcc =   1.0813        
++ xnand2.vee = 373.2526m       
++ xnand3.n1 =   1.1000        
++ xnand3.n2 =   1.1000        
++ xnand3.vcc =   1.0813        
++ xnand3.vee =   1.1000        
++ xnand4.n1 = 365.2695m       
++ xnand4.n2 = 323.6237m       
++ xnand4.vcc =   1.0694        
++ xnand4.vee = 373.2529m       
++ xinv4.vcc =   1.0598        
++ xinv4.vee =   7.6459m       
++ xinv5.vcc =   1.0642        
++ xinv5.vee =  22.0416m       
++ xinv6.vcc =   1.0642        
++ xinv6.vee =  22.0427m       
++ xinv7.vcc =   1.0642        
++ xinv7.vee =  22.0440m       
+***   END: Saved Operating Point ***                     

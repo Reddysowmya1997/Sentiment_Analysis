@@ -1,0 +1,4 @@
+$DATA1 SOURCE='PrimeSim HSPICE' VERSION='R-2020.12-SP2 win64' PARAM_COUNT=0
+.TITLE '* hspice deck for a 2 to 4 decoder'
+ leakage0         leakage1         temper           alter#          
+  7.950e-06        7.950e-06        100.0000        2               
